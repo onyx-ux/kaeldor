@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Kaeldor
+draft: false
+tags:
+  -
 ---
+To give you a good understanding of Kaeldor, here's a few area's where you can browse to begin with.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
