@@ -1,5 +1,5 @@
 ---
-title: This Shouldn't Be Published
+title: Session 7
 draft: true
 tags:
   -

@@ -1,3 +1,9 @@
+---
+title: The Corruption Journey
+draft: true
+tags:
+  -
+---
 # The Corruptions Journey
 Before the [[#Great Sundering]], the rolling highlands north of the southern cliffs were known as the Sunken Plains, a place of profound and wild beauty. It was a sea of windswept grass, dotted with ancient, solitary oaks and carpeted in vast swathes of star-lilies and mountain bells.
 

@@ -1,3 +1,9 @@
+---
+title: The Fall of Ymir
+draft: true
+tags:
+  -
+---
 ## The Rime-Heart Plague
 The corruption of [[Old Jotenheim]] was not a conquest of armies, but a single, insidious act of sabotage that unfolded in the shadow of [[Kaeldor]]'s greatest cataclysm. As the [[Lich King]] [[Lich King|Valameer]]'s hordes crashed against the north, he dispatched his most cunning agent, [[Oswin|Dread-Revenant Oswin]], on a mission of absolute priority.
 

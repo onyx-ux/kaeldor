@@ -1,7 +1,12 @@
 ---
+title: Magni
+draft: true
+tags:
+  - 
 aliases:
   - Magni
 ---
+ 
 # 🧔 Magni Darkforge
 ## Magni Darkforge
 * **Race:** Mountain Dwarf

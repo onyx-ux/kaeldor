@@ -1,4 +1,10 @@
-# 👑 Blake Fenmir
+---
+title: Blake
+draft: true
+tags:
+  -
+---
+ # 👑 Blake Fenmir
 ## Name: Blake Fenmir
 * **Class:** Shadow Magic Sorcerer
 * **Race:** Scourge Aasimar
