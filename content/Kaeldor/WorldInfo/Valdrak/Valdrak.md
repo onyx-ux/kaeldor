@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Goodbye to Valdrak
 You do not say "welcome" to [[Valdrak]]. You do not cheer its name nor seek its gates, for the gates are shattered and the name is a wound. To this place, one can only whisper "goodbye."
 

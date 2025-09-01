@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Welcome to Jotunheim
 To speak of [[Old Jotenheim]] in the modern age is to speak a dead language. It is a name that lingers on the edges of maps, a rumour of a place that chose to be forgotten. While the dwarves of [[Khaz Modan]] met the [[#Great Sundering]] with the ringing of hammers, the giants met it with a profound and absolute silence that has not been broken since.
 

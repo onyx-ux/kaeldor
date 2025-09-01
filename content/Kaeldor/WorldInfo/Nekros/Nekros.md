@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Welcome to Nekros
 Welcome to [[Nekros]], the city that remembers too much. It was not always a place of fear. In the hopeful years of the Age of Harmony, [[Nekros]] was [[King Illhoof]]'s most profound and compassionate experiment. It was built upon a unique confluence of spiritual energy, a place where the veil between worlds was thin, and the souls of the fallen were naturally drawn to rest. This was the City of Remembrance, a sanctuary of soft mists and silent gardens where the living could walk, for a time, with the peaceful, spectral forms of their departed loved ones. It was a city of gentle grief, of last goodbyes, a promise that those who were lost were never truly forgotten.
 

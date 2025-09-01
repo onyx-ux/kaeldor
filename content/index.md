@@ -4,6 +4,28 @@ draft: false
 tags:
   -
 ---
-To give you a good understanding of Kaeldor, here's a few area's where you can browse to begin with.
+# Welcome to Kaeldor
 
+Welcome adventurer to the world of Kaeldor. Here be your index on how to find the world as you know it. 
+
+We have our lovely or not so lovely cities.
+
+```dataview
+LIST
+FROM #World 
+```
+
+Our places
+
+```dataview
+LIST
+FROM #Place 
+```
+
+Or maybe you're looking for some events that have happened thus far.
+
+```dataview
+list
+from #Event 
+```
 

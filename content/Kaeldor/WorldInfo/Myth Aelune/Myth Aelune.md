@@ -1,6 +1,8 @@
 ---
 aliases:
   - Myth'Aelune
+tags:
+  - World
 ---
 
 

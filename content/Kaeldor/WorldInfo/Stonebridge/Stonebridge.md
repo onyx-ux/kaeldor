@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Welcome to Stonebridge
 To understand [[Stonebridge]] is to first look up. High in the sky hangs [[Aeris Gard]], a jewel of light and magic, a floating promise of a world that no longer exists. [[Stonebridge]] is the shadow it casts upon the earth. Born from the grim necessity that followed the [[#Great Sundering]], [[Stonebridge]] is the kingdom's anchor to the world. It is a city of grit, toil, and frantic life. By day, its muddy streets throng with farmers, miners, and blacksmiths, a populace of lowborns who work and bleed to feed the floating paradise above. Conscription officers patrol the squares, their polished armor a stark contrast to the grime, taking sons and daughters for a war against an enemy most have only heard of in whispers.
 

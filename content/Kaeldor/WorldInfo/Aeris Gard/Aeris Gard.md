@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Welcome to Aeris Gard
 To the desperate souls on the ground, it is a miracle. A star that never falls, a promise of divinity, a silent, beautiful testament to a peace that was stolen from the world. It is the last glimmer of the Age of Harmony, a paradise held aloft by magic and memory. But to the few who ascend, the truth reveals itself. Welcome to [[Aeris Gard]], the gilded cage.
 

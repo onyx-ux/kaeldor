@@ -1,3 +1,8 @@
+---
+tags:
+  - World
+---
+
 # Welcome to Eldhoof's Watch
 To the soldiers of the new kingdom, it is simply the Southern Watch—a lonely, windswept fortress on the coast, a vital strategic outpost against whatever horrors might creep from the sea. They see its cyclopean searchlight cutting through the night and feel a sliver of security. But the oldest stones remember a different purpose. They remember when this tower was not a fortress, but a vigil. Welcome to [[Eldhoof's Watch]], the monument to a brother’s broken hope.
 
