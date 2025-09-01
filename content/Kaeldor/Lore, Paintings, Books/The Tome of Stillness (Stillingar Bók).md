@@ -1,0 +1,9 @@
+**Appearance:** This is not a book in the traditional sense, but a massive, cubical block of granite, five feet to a side, resting on a stone pedestal in a secluded alcove. Its "pages" are thin sheets of slate, each meticulously carved with giantish runes. Lifting a single page requires a combined Strength of at least 20. The air around the tome is unnaturally cold and still; sounds made within 10 feet of it are muffled and distant.
+
+**Lore Fragment:** Upon translating a page, the party finds not a history, but a philosophical treatise on the giants' most sacred vow: The Great Silence.
+
+> _"...to speak is to invite chaos. The Small Folk's words are storms, each promise a thunderclap of betrayal, each treaty a gust of wind that shifts with the sun. Their noise broke the world once, in the fire and scream of the [[#Great Sundering]]. We saw our kin swayed by the Crownless Voice, his words like honeyed poison, promising power but delivering only chains of undeath. They opened their throats to him and in return, had their souls hollowed out._
+> 
+> _We will not suffer the same fate. We choose stillness. We choose silence. Let the world scream itself hoarse. Our memory will be our prison, but it is a prison of our own making. In silence, we are eternal. In stillness, we are unbreakable. To be a mountain is not to shout at the sky, but to endure its storms without reply."_
+
+This tome reveals the philosophical and traumatic underpinning of the giants' silence—it was a conscious, painful choice made in reaction to the Sundering and the corruption of their kin by [[Lich King|Eldhoof]].

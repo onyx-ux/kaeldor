@@ -1,0 +1,5 @@
+---
+aliases:
+  - Elder Ysra
+  - Ysra
+---
