@@ -1,0 +1,25 @@
+---
+tags:
+  - World
+---
+
+# Welcome to Khar-Thul
+The [[#Great Sundering]] did not forge a grudge in the heart of [[Khar-Thul]], nor did it silence them. It set them free. While the dwarves turned inward to nurse their bitterness and the giants retreated into a frozen memory, the orcs looked up, and found a new truth. [[Khar-Thul]] is not a city of stone but of sinew, scrap, and smoke. It is a sprawling, chaotic testament to survival, clinging to the harsh eastern cliffs like a colony of determined fungi. The air is thick with the competing smells of roasting meat, alchemical reagents, and goblin ingenuity. The sounds are a constant, vibrant cacophony—the bellowed commands of orc overseers, the chittering negotiations of goblin traders, the clang of scavenged metal being hammered into weapons, and the hiss of strange contraptions. This is not a city that is preparing for war; it is a city that is in a constant, energetic state of living.
+
+Here, the orcs and goblins have forged a new, symbiotic society born of shared abandonment. The hulking strength and shamanistic wisdom of the orcs provide order and protection. In turn, the sheer numbers, cunning, and tireless tinkering of the goblin refugees provide the labor and invention that keeps the city running. They are two parts of a single, pragmatic fist raised in defiance of a world that discarded them.
+
+Their faith, however, is what truly defines them. They no longer look to the floating citadel of [[Aeris Gard]] with envy or anger. Their gazes are fixed upon their own sky. High above the city, a collection of massive, dark stones hang in the air, slowly, perpetually turning in a silent orbit. This is the [[Circle of Khar-Thul]], a phenomenon born or perhaps awakened by the [[#Great Sundering]]'s magical backlash. These floating monoliths are their new gods. Their shamans no longer cast bones to read the future; they watch the slow, inexorable dance of the great stones. They listen for prophecies not in the roar of forgotten deities, but in the low, resonant hum that now permeates their lives, a vibration felt deep in the chest of every resident. The Circle is their calendar, their oracle, and their source of power.
+
+To be welcomed into [[Khar-Thul]] is to be appraised. The question upon entry is simple and sharp: "Are you useful?" There is no judgment of race or past, only a pragmatic assessment of what one can contribute to the whole. Strength is valued, but so is cunning. A strong arm is useful, but so is a clever mind that can fix a broken gear-work lift or distill a more potent explosive. This is the city that turned its back on the old world. They have found their own gods in their own sky, and their own strength in the union of the dispossessed. They do not care about the [[Lich King]] or the Sundered King; they care only about the turning of the stones and the survival of the tribe.
+
+# Khar-Thul (City Story)
+## Khar-Thul (The Free City)
+The leadership of [[Khar-Thul]] is a direct reflection of its pragmatic, symbiotic society. It is not a monarchy but a duumvirate, where the two dominant races wield power in the areas they best command, bound by the shared faith in their new gods—the floating stones above.
+
+* **Leadership:**
+    * Warchief [[Warchief Ghor’ash]]: The Fist of Khar-Thul.
+    * Chief Tinker [[Chief Tinker Fizzlebang]]: The Brain of Khar-Thul.
+* **Description:**
+    * Warchief [[Warchief Ghor’ash]] is a massive, one-eyed orc whose scarred hide tells the story of a hundred battles. He is the ultimate authority on order, defense, and labor allocation. He is brutally pragmatic, speaking in short, direct commands. His wisdom comes not from books but from the city's shamans, who interpret the dance of the great stones in the sky. He embodies the strength and will of the orcs.
+    * Chief Tinker [[Chief Tinker Fizzlebang]] is a wiry, hyperactive goblin who is never seen without a grime-stained abacus and a half-finished explosive device. He commands the city's vast network of trade, salvage, and invention. While [[Warchief Ghor’ash]] ensures the walls are strong, [[Chief Tinker Fizzlebang]] ensures the city has the resources, gear, and volatile alchemy needed to survive. He embodies the cunning and relentless ingenuity of the goblins.
+* **Alignment to the Throne:** Utterly Indifferent. The text is explicit: they "do not care about the [[Lich King]] or the Sundered King." Their society has turned its back on the old world entirely. They would trade with [[Aeris Gard]] if it were useful and profitable, or scavenge from its battlefields if it were convenient, but they would offer no alliance and feel no loyalty. Their only allegiance is to the survival of their people under the watchful gaze of the [[Circle of Khar-Thul]]. To them, the throne of [[Aeris Gard]] is just a relic from a world they were happy to leave behind.

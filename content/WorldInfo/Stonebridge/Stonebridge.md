@@ -1,0 +1,13 @@
+---
+tags:
+  - World
+---
+
+# Welcome to Stonebridge
+To understand [[Stonebridge]] is to first look up. High in the sky hangs [[Aeris Gard]], a jewel of light and magic, a floating promise of a world that no longer exists. [[Stonebridge]] is the shadow it casts upon the earth. Born from the grim necessity that followed the [[#Great Sundering]], [[Stonebridge]] is the kingdom's anchor to the world. It is a city of grit, toil, and frantic life. By day, its muddy streets throng with farmers, miners, and blacksmiths, a populace of lowborns who work and bleed to feed the floating paradise above. Conscription officers patrol the squares, their polished armor a stark contrast to the grime, taking sons and daughters for a war against an enemy most have only heard of in whispers.
+
+But as the last light of the sun slips behind the colossal peaks of the [[Aegis of Aeris]], a change occurs. The frantic noise of the day does not fade; it is strangled. A single, heavy bell tolls from the High Garrison, a sound that strikes a primal fear into the heart of every resident. This is the herald of [[The Hour of Silence]].
+
+With a frantic energy, market stalls are packed away, heavy doors are barred from the inside, and iron-shutters are bolted over windows. The city seals itself shut. Then, the phenomenon begins. A thick, unnatural fog, clammy and smelling of grave-dirt, does not roll in from the hills, but seeps up from the cobblestones and sewer grates, swallowing the city street by street in its opaque, white gloom. Absolute silence falls, a heavy blanket that smothers all sound. Then come the noises. A low, whistling wind begins to moan through the alleyways, though not a single banner stirs nor a wisp of smoke trembles. It is a sound without a source, the hollow breath of unseen things. Woven into it is another sound, more grating and deliberate: the rhythmic, dragging creak of rusted metal, like heavy, ancient chains being pulled through the empty streets, or the groaning joints of armor worn by no living soldier.
+
+No one dares to look. The people of [[Stonebridge]] huddle in their homes, listening to the phantom wind and the scraping metal, praying they pass their door by. For it is during [[The Hour of Silence]] that people vanish. It is the tangible proof of the city’s sickness—a nightly, supernatural event that confirms the whispers of the undead are not just rumours. They are a curse that has fallen upon the city, a curse that arrives with the fog each and every night.

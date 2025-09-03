@@ -1,0 +1,15 @@
+---
+title: Chief Tinker Fizzlebang
+aliases:
+  - Fizzlebang
+draft: false
+tags:
+  - NPC
+faction: 
+  - "[[The Circle Order]]"
+location:
+  - "[[Khar-Thul]]"
+---
+
+* [[Chief Tinker Fizzlebang]]: The Brain of Khar-Thul.
+* [[Chief Tinker Fizzlebang]] is a wiry, hyperactive goblin who is never seen without a grime-stained abacus and a half-finished explosive device. He commands the city's vast network of trade, salvage, and invention. While [[Warchief Ghor’ash]] ensures the walls are strong, [[Chief Tinker Fizzlebang]] ensures the city has the resources, gear, and volatile alchemy needed to survive. He embodies the cunning and relentless ingenuity of the goblins.

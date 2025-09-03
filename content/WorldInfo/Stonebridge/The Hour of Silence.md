@@ -1,0 +1,6 @@
+---
+tags:
+  - Event
+---
+
+With a frantic energy, market stalls are packed away, heavy doors are barred from the inside, and iron-shutters are bolted over windows. The city seals itself shut. Then, the phenomenon begins. A thick, unnatural fog, clammy and smelling of grave-dirt, does not roll in from the hills, but seeps up from the cobblestones and sewer grates, swallowing the city street by street in its opaque, white gloom. Absolute silence falls, a heavy blanket that smothers all sound. Then come the noises. A low, whistling wind begins to moan through the alleyways, though not a single banner stirs nor a wisp of smoke trembles. It is a sound without a source, the hollow breath of unseen things. Woven into it is another sound, more grating and deliberate: the rhythmic, dragging creak of rusted metal, like heavy, ancient chains being pulled through the empty streets, or the groaning joints of armor worn by no living soldier.
