@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - v4
- 
+ env:
+  THEME_NAME: its-theme
 permissions:
   contents: read
   pages: write
@@ -30,9 +31,10 @@ jobs:
         run: npx quartz build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
         with:
-          path: public
- 
+          path: public        
   deploy:
     needs: build
     environment:
