@@ -8,8 +8,14 @@ tags:
 
 _A ledger for wayfarers, compiled by the House of Wayfarers._
 
----
+Quick Links
+[[#WorldInfo]]
+[[#Lore]]
+[[#Magical Items]]
+[[#NPCs (Non-PC)]]
+[[#Session]]
 
+# WorldInfo
 ## [[Aeris Gard]] — “The Flying Capital”
 
 Paradise aloft, purchased by grief below; home of bridges of light, eternal gardens, and the quiet machinery of survival under the [[Great Sundering]].
@@ -109,7 +115,7 @@ Trade-artery to the [[Aegis of Aeris]] and the wastes of [[Old Jotenheim]]; rece
 - [[Loremistress Lyraelle]] — voice of [[Myth Aelune]].
 - [[Eldhoof]] (the [[Crownless Voice]]) — exile whose shadow threads much of the north’s doom.
 
-# LORE
+# Lore
 
 - [[Great Sundering]] — In answer to the fall of [[Valdrak]] and the rise of the [[Lich King]] [[Lich King|Valameer]], [[King Illhoof]] commanded the [[Veil Warden]] to wrench [[Aeris Gard]] into the sky, leaving the ring of mountains called the [[Aegis of Aeris]] as a scarred border and tombstone for the north.
 - [[Aeris Gard]] & its Orders — A shining citadel above, a burdened shadow below: the city’s peace is maintained by the arcane jailers of the [[Veil Warden]] and the knights of the [[Order of the Adamant Veil]], who descend to purge horrors in [[Stonebridge]].
@@ -124,7 +130,7 @@ Trade-artery to the [[Aegis of Aeris]] and the wastes of [[Old Jotenheim]]; rece
 - [[The Ashen Codex]] — A chained bark-tome whose prophecy shows the [[Carrion Tree]] under the [[Empty Star]].
 
 
-# MAGICAL ITEMS
+# Magical Items
 
 - [[Gauntlets of the Mountain Heart]] — Rare; strength-tuned gloves forged with rune-steel and glacier iron.
 - [[Heartstone of the Jötun]] — A luminous shard once embedded in a giant king; known to bolster will and presence.
