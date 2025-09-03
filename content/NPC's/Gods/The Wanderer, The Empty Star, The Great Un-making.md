@@ -1,5 +1,5 @@
 ---
-title: Moradin
+title: The Wanderer
 draft: false
 tags:
   - NPC
