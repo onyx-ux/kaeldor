@@ -4,6 +4,7 @@ tags:
 ---
 
 # Welcome to Khar-Thul
+
 The [[#Great Sundering]] did not forge a grudge in the heart of [[Khar-Thul]], nor did it silence them. It set them free. While the dwarves turned inward to nurse their bitterness and the giants retreated into a frozen memory, the orcs looked up, and found a new truth. [[Khar-Thul]] is not a city of stone but of sinew, scrap, and smoke. It is a sprawling, chaotic testament to survival, clinging to the harsh eastern cliffs like a colony of determined fungi. The air is thick with the competing smells of roasting meat, alchemical reagents, and goblin ingenuity. The sounds are a constant, vibrant cacophony—the bellowed commands of orc overseers, the chittering negotiations of goblin traders, the clang of scavenged metal being hammered into weapons, and the hiss of strange contraptions. This is not a city that is preparing for war; it is a city that is in a constant, energetic state of living.
 
 Here, the orcs and goblins have forged a new, symbiotic society born of shared abandonment. The hulking strength and shamanistic wisdom of the orcs provide order and protection. In turn, the sheer numbers, cunning, and tireless tinkering of the goblin refugees provide the labor and invention that keeps the city running. They are two parts of a single, pragmatic fist raised in defiance of a world that discarded them.

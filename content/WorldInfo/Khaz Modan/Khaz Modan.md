@@ -4,6 +4,7 @@ tags:
 ---
 
 # Welcome to Khaz'Modan
+
 Welcome is not a word etched into the stone of [[Khaz Modan]]. Banners can be burned and oaths can be broken, but the mountain endures, and it is the mountain that offers the city it's only greeting: a biting, ceaseless wind that howls with the memory of betrayal. To enter the dwarven hold is to step into a living tomb, a city that died and was painstakingly hammered back to life. The air within the great stone halls is warm, not with camaraderie, but with the grim, industrial heat of the forges that burn day and night. The legendary acoustics of the vault, once designed to carry the joyous songs of feasting and brotherhood, now only serve to amplify the mournful echo of a thousand hammers. It is the sound of a city forever sharpening its teeth.
 
 The dwarves themselves move with a profound and heavy purpose. They are a people whose laughter has turned to iron in their throats. Their faces are impassive, carved from the same granite as their halls, and their eyes hold the cold light of a forge fire. They work, they build, they train, their entire existence a testament to the singular belief that what has been lost can never be regained, only avenged.

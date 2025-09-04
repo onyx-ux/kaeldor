@@ -7,7 +7,7 @@ tags:
 
 
 # Welcome to Myth'Aelune
-There was a time when to find [[Myth Aelune]], one simply had to walk toward the light. For at the heart of the ancient forest stood the great [[World Tree]], and its leaves wept a silver, dewy luminescence that nourished the land and served as a beacon for all of [[Kaeldor/WorldInfo/Kaeldor]]. The light is now fading.
+There was a time when to find [[Myth Aelune]], one simply had to walk toward the light. For at the heart of the ancient forest stood the great [[World Tree]], and its leaves wept a silver, dewy luminescence that nourished the land and served as a beacon for all of [[Kaeldor]]. The light is now fading.
 
 To approach [[Myth Aelune]] today is to walk through a forest that holds its breath. The air is still and heavy with an ancient, unspoken sorrow. The paths are overgrown, and the once-joyous whispers of the leaves have been replaced by a dry, rustling sigh. The city reveals itself not with a grand gate, but with the gradual appearance of elegant flets and spiraling staircases woven seamlessly around the boughs of colossal, silver-barked trees. But all of it, all of this breathtaking, natural architecture, exists in the shadow of the heart of the forest: the [[World Tree]].
 

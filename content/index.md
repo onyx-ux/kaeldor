@@ -16,54 +16,66 @@ Quick Links
 [[#Session]]
 
 # WorldInfo
+
 ## [[Aeris Gard]] — “The Flying Capital”
 
 Paradise aloft, purchased by grief below; home of bridges of light, eternal gardens, and the quiet machinery of survival under the [[Great Sundering]].
 
 **Rulers & Orders.** [[King Illhoof]] (the Sundered King); the sword-hand [[Order of the Adamant Veil]] under [[Lord-General Marius]]; the arcane custodians [[Veil Warden|Veil Warden]] under [[Magister Kaelan]]; civil life kept breathing by [[Elara Vance]].
 
-**Linked NPCs.** [[Princess Anya|Princess Anya Fenmir]] (public grace, private steel); [[Ser Korbin|Ser Korbin“The Porcelain Knight” Vance]] (Stonebridge’s mirrored terror); [[Ser Joren]] (knight-escort).
-
-**Notes.** The city’s peace rests on the lie that the north’s screams are far away; its guardians descend often to scour the ground of creeping horror.
+**Linked NPCs.** 
+[[Princess Anya|Princess Anya Fenmir]] (public grace, private steel); 
+[[Ser Korbin|Ser Korbin “The Porcelain Knight” Vance]] ; 
+[[Ser Joren]] (knight-escort).
 
 ---
 
 ## [[Stonebridge]] — Shadow of the Sky
 
-Anvil-city beneath [[Aeris Gard]]: mud, fog, conscription, and the dreaded [[The Hour of Silence]].
+Born from the grim necessity that followed the [[#Great Sundering]], [[Stonebridge]] is the kingdom's anchor to the world. It is a city of grit, toil, and frantic life. By day, its muddy streets throng with farmers, miners, and blacksmiths, a populace of lowborns who work and bleed to feed the floating paradise above. 
 
-**Linked Orders & NPCs.** Patrols of the [[Order of the Adamant Veil|Order of the Adamant Veil]] purge the “Somber Veil”; sightings of [[Ser Korbin|Ser Korbin Vance]]
-during the fogbound hours.
+**Linked Orders & NPCs.** Patrols of the [[Order of the Adamant Veil|Order of the Adamant Veil]] during the fogbound hours.
 
 ---
 
 ## [[Khar-Thul]] — The Free City
 
-A cliff-hung sprawl of sinew, scrap, and smoke; faith fixed on the turning stones of the [[Circle of Khar-Thul]].
+[[Khar-Thul]] is not a city of stone but of sinew, scrap, and smoke. It is a sprawling, chaotic testament to survival, clinging to the harsh eastern cliffs like a colony of determined fungi. The air is thick with the competing smells of roasting meat, alchemical reagents, and goblin ingenuity. 
 
 **Rulers.** [[Warchief Ghor’ash|Warchief Ghor'ash]] (the Fist) and [[Chief Tinker Fizzlebang|Chief Tinker Fizzlebang]] (the Brain); a pragmatic duumvirate.
 
-**Linked NPCs.** [[Rusk the Black-Wire]] (goblin artificer, rival-ally to a certain monk); city at large is “utterly indifferent” to thrones—only the [[Circle of Khar-Thul]] matters.
+**Linked NPCs.** 
+[[Rusk the Black-Wire]];
+[[Warchief Ghor’ash]];
+[[Chief Tinker Fizzlebang]];
 
 ---
 
-## [[Khaz Modan]] — The [[Stone-Exiles]]
+## [[Khaz Modan]] — The City of Stone
 
-A people made into a pressure-valve beneath [[Aeris Gard]]; outwardly cooperative, inwardly nursing a granite-deep grudge.
+To visit [[Khaz Modan]] is to walk through the halls of a memory that will not fade. It is to feel the oppressive weight of a people who survived the end of their world not by the grace of gods or kings, but by the sheer, unyielding force of their own bitterness. Here, history is not a story told—it is the stone beneath one’s feet and the steel being hammered on the anvil, and neither will ever forget.
 
 **Rulers.** [[Borin Stonehand|Guildmaster Borin Stonehand]] and the council of the [[The Stone-Exiles]].
 
-**Linked NPCs.** [[Borin Stonehand]]; the wider [[Stonehand]] kin: [[Bruenor Stonehand]], [[Doric Stonehand]], [[Duramir Darkforge]]; court-kitchen contact [[Bramthorn Emberpan]].
+**Linked NPCs.** 
+[[Borin Stonehand]]; 
+the wider [[Stonehand]] kin: 
+	[[Bruenor Stonehand]];
+	[[Doric Stonehand]];
+	[[Duramir Darkforge]]; 
+[[Bramthorn Emberpan]];
 
 ---
 
 ## [[Myth Aelune]] — The Withering Crown
 
-An elven city in vigil beneath the ailing [[World Tree]]; a people arming for a spiritual war as leaves brown and roots blacken.
+To approach [[Myth Aelune]] today is to walk through a forest that holds its breath. The air is still and heavy with an ancient, unspoken sorrow. The paths are overgrown, and the once-joyous whispers of the leaves have been replaced by a dry, rustling sigh. The city reveals itself not with a grand gate, but with the gradual appearance of elegant fleets and spiralling staircases woven seamlessly around the boughs of colossal, silver-barked trees.
 
 **Ruler.** [[Loremistress Lyraelle]], keeper of songs and sorrow.
 
-**Linked NPCs.** [[Erfir Elmsrest]] (elder who shelters the unstable and counsels calm).
+**Linked NPCs.** 
+[[Loremistress Lyraelle]];
+[[Erfir Elmsrest]];
 
 ---
 
@@ -71,19 +83,31 @@ An elven city in vigil beneath the ailing [[World Tree]]; a people arming for a 
 
 Once a sanctuary where the veil ran thin and farewells were gentle; seized by [[Lich King|Valameer]] the [[Lich King]], its soul-light twisted into a forge of grief.
 
-**Linked Stronghold.** [[Valdrak]], the black bastion raised by [[Lich King|Valameer]], whose fall and corruption forced the [[Great Sundering]].
+**Linked Stronghold.**
+[[Valdrak]], the black bastion raised by [[Lich King|Valameer]], whose fall and corruption forced the [[Great Sundering]];
+[[Heart of Sorrows]], an unknown structure, centred in the middle of Nekros;
+
+**Linked NPCs**
+[[Lich King]]
 
 ---
 
 ## [[Old Jotenheim]] — The Silent Garrison
 
-A kingdom that chose stillness; now a glacial library and barracks of enslaved giants, conquered from within by the [[The Rime-Heart Plague]].
+To speak of [[Old Jotenheim]] in the modern age is to speak a dead language. It is a name that lingers on the edges of maps, a rumour of a place that chose to be forgotten. While the dwarves of [[Khaz Modan]] met the [[#Great Sundering]] with the ringing of hammers, the giants met it with a profound and absolute silence that has not been broken since.
 
-**Ruler.** [[King Ymir]]—a living monument of blackened ice and will not his own.
+**Ruler.** [[King Ymir]] a living monument of blackened ice and will not his own.
 
 **Linked NPCs.** [[King Ymir]]
 
-**Linked Lore & Artifacts.** The murals and tomes speak of the [[The Star-Shaper's Ledger (Stjarna Smiður Bók)|Crownless Voice]], the [[The Ashen Codex]], the [[The Star-Shaper's Ledger (Stjarna Smiður Bók)]], and oaths like “Silence is salvation”.
+**Linked Lore & Artifacts.** 
+[[Painting - The Lament of the First Corrupted]]
+[[The Ashen Codex]]
+[[The Dirge of the Sunken King (Sökkvi Konungur Kvæði)]]
+[[The Star-Shaper's Ledger (Stjarna Smiður Bók)]]
+[[The Tome of Stillness (Stillingar Bók)]]
+[[The Verdant Canticle]]
+
 
 ---
 
