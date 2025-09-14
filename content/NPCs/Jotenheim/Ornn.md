@@ -10,10 +10,8 @@ faction:
 location:
   - "[[Old Jotenheim]]"
 ---
+## Ornn, Guardian of the Seal
 
-**Race:** Frost Giant  
-- **Description:** The party finds him slumped at the base of a massive crystal pillar, which is spiderwebbed with cracks from the force of his collapse. He is a behemoth, even when dying. His intricate scale Armor is shattered, and his great-helmed head is bowed to his chest. One arm is twisted at an unnatural angle, his colossal axe lying just out of his reach. His wounds are horrific: they are not clean cuts, but blackened, cauterized gashes that pulse with a sickening, faint violet light. His breathing is a ragged, wet gurgle.
-- **Motivation:** Duty. He is the sole survivor of a three-giant patrol. His only remaining purpose is to ensure their warning reaches [[Old Jotenheim]].
-- **Immediate Goal:** To give his message stone to someone—anyone—who can carry it to his people before he dies and the corruption in his wounds claims his soul.
-- **Secret/Flaw:** His greatest fear is not death, but undeath. He can feel the [[Lich King]]'s magic like a cold poison in his veins, waiting for his spirit to depart so it can claim the vessel. He would rather be utterly destroyed than rise as a slave to the thing that has destroyed his people.
-- **Lever:** The party can offer him two things he desperately wants: the promise to deliver his message, and the mercy of a final, clean death.
+- **Role:** Last protector of the Wanderer’s prison. His soul and life-force are bound to the ancient wards. His existence is not just his own — it is part of the seal itself.
+- **Appearance:** A colossus of battered armor, runes still faintly glowing on the plates. Frost steams from his mouth with every labored breath. His axe is engraved with sigils older than the gods, each swing carving through corruption like lightning through stormclouds.
+- **Presence:** Ornn’s voice is thunder — not booming in volume, but carrying the weight of inevitability. He is the last of a sacred order.
